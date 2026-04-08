@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - Language: C, C++, JavaScript
 - Tools: Git, Linux, cloudflare
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edan4012&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edan4012&show_icons=true&theme=radical&count_private=true)
