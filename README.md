@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 - Language: C, C++, JavaScript
 - Tools: Git, Linux, cloudflare
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edan4012)
