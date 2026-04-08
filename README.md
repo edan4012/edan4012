@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm edan4012
 
-💻 C / C++ / Web / Game Developer
-🚀 I'm currently learning game engine / algorithm
+- 💻 C / C++ / Web / Game Developer
+- 🚀 I'm currently learning game engine / algorithm
 
 ---
 
