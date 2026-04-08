@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 - Language: C, C++, JavaScript
-- Tools: Git, Linux, cloudflare
+- Tools: Git, Linux, Cloudflare
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=edan4012&show_icons=true&theme=radical&count_private=true)
 -->
