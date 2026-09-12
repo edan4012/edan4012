@@ -46,8 +46,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonchungrak&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonchungrak&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edan4012&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edan4012&layout=compact&hide_border=true&langs_count=8" height="170" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonchungrak&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edan4012&hide_border=true&area=true" width="95%" />
 </p>
 ---
 
