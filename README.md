@@ -3,7 +3,6 @@
 * 🎓 Computer Science Student
 * 🤖 Interested in **ML Engineering**
 * ☁️ Interested in **Cloud & Backend Development**
-* 🐧 Enjoy working with **Linux**
 * 🐳 Building and deploying services with **Docker**
 * 🔧 Learning through personal projects and experiments
 
