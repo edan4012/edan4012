@@ -62,7 +62,7 @@ Interested in:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonchungrak&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=edan4012&hide_border=true" />
 </p>
 
 ---
@@ -72,25 +72,6 @@ Interested in:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonchungrak&hide_border=true&area=true" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sonchungrak/sonchungrak/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 💡 Development Philosophy
-
-> **Learn by building. Understand by experimenting.**
-
-I believe that the most effective way to learn software development is to build something, encounter problems, and understand why they happen.
-
-I'm continuously improving my programming fundamentals while exploring **AI, systems, backend development, and cloud infrastructure**.
-
 ---
 
 ## 📫 Contact
