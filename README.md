@@ -14,13 +14,21 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C?style=for-the-badge&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  
 </p>
 
 ### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,cloudflare" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" />
 </p>
 
 ---
