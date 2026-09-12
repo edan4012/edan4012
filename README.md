@@ -23,12 +23,6 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,cloudflare" />
 </p>
 
-### Currently Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,aws,cloudflare" />
-</p>
-
 ---
 
 ## 🎯 Career Focus
