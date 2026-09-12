@@ -25,8 +25,10 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,cloudflare" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" />
 </p>
