@@ -39,24 +39,7 @@
 
 ### Machine Learning Engineer
 
-Interested in:
-
-* Machine learning fundamentals
-* Model development and experimentation
-* Local LLMs
-* AI-powered applications
-* ML systems and deployment
-
 ### Cloud / Backend Developer
-
-Interested in:
-
-* REST APIs
-* Server applications
-* Linux infrastructure
-* Docker & containerization
-* Cloud deployment
-* System architecture
 
 ---
 
