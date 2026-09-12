@@ -62,7 +62,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edan4012&hide_border=true&area=true" width="95%" />
+  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edan4012&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
 </p>
 ---
 
