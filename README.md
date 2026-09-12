@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Statistics
 
-<p>
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=edan4012&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react" />
 </p>
 
