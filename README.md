@@ -45,10 +45,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edan4012&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edan4012&layout=compact&hide_border=true&langs_count=8" height="170" />
-</p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=edan4012)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
