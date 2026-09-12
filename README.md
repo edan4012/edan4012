@@ -14,7 +14,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,python" />
+  <img src="https://img.shields.io/badge/C?style=for-the-badge&logo=C&logoColor=white" />
 </p>
 
 ### Tools & Technologies
