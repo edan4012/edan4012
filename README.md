@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/edan4012">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=edan4012&theme=github-compact&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph--edan4012.replit.app/graph?username=edan4012" />
   </a>
 </p>
 ---
